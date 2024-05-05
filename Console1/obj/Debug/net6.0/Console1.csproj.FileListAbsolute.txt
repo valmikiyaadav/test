@@ -1,0 +1,15 @@
+D:\Users\Identity\Console1\Console1\bin\Debug\net6.0\Console1.exe
+D:\Users\Identity\Console1\Console1\bin\Debug\net6.0\Console1.deps.json
+D:\Users\Identity\Console1\Console1\bin\Debug\net6.0\Console1.runtimeconfig.json
+D:\Users\Identity\Console1\Console1\bin\Debug\net6.0\Console1.dll
+D:\Users\Identity\Console1\Console1\bin\Debug\net6.0\Console1.pdb
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.csproj.AssemblyReference.cache
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.AssemblyInfoInputs.cache
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.AssemblyInfo.cs
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.csproj.CoreCompileInputs.cache
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.dll
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\refint\Console1.dll
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.pdb
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\Console1.genruntimeconfig.cache
+D:\Users\Identity\Console1\Console1\obj\Debug\net6.0\ref\Console1.dll
